@@ -19,7 +19,7 @@ Da die meisten der archivierten Texte (d.h. Quellcode, Daten etc.) wahrscheinlic
 Die Texte in diesem Repository sind in deutscher Sprache. Die Auswahl der Texte impliziert keine allgemeingültige Bewertung und ist subjektiv. Auch sind die Texte nicht unbedingt ursprünglisch in Deutsch verfasst, sondern können übersetzt worden sein.
 
 ## Repositorystruktur
-Im Ordner [texte/](./texte) befindet sich jeweils ein Ordner pro Autor, nach dem schema: `nachname-vornamen` (` ` als `_`). In dem Autorenordner sind alle Texte des Autors als Markdown-Datei.
+Pro Autor gibt es einen Ordner, benannt nach dem schema: `nachname-vornamen` (` ` als `_`). In dem Autorenordner sind alle Texte des Autors als Markdown-Dateien.
 
 ## Mitwirken
 Wenn du der Meinung bist dass ein bestimmter Texte unbedingt für die nächsten 1000 Jahre erhalten bleiben sollte stelle doch gerne einen Pull-Request.
@@ -33,7 +33,7 @@ Considering the fact, that probably most of the archived texts (meaning to sourc
 The texts in this repository are in german language. The selection of the texts doesn't imply any valid valuation and is quite subjective. Also the texts aren't necessarrily written in german, but may be translated.
 
 ### repository structure
-Under the directory [texte/](./texte) you can find a directory for each author, following this schema: `lastname-firstnames` (` ` as `_`). All texts of one authorcan be found in this author-directory.
+For each author there is a directory, named following this schema: `lastname-firstnames` (` ` as `_`). All texts of one author can be found as markdown-file in this author-directory.
 
 ### contributing
 If you would like to see some german text to be preserved for the next 1000 year, feel free to set a pull-request.
