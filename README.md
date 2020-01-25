@@ -22,13 +22,13 @@ Die Texte in diesem Repository sind in deutscher Sprache. Die Auswahl der Texte 
 Pro Autor gibt es einen Ordner, benannt nach dem schema: `nachname-vornamen` (` ` als `_`). In dem Autorenordner sind alle Texte des Autors als Markdown-Dateien.
 
 ## Mitwirken
-Wenn du der Meinung bist dass ein bestimmter Texte unbedingt für die nächsten 1000 Jahre erhalten bleiben sollte stelle doch gerne einen Pull-Request.
+Wenn du der Meinung bist dass ein bestimmter Texte unbedingt für die nächsten 1000 Jahre erhalten bleiben sollte, stelle doch gerne einen Pull-Request.
 
 ## englische version
 
 ### about
 Reacting to the "Artic Code Vault", by the [GitHub Archive Program](https://archiveprogram.github.com/), which aims to preserve active public GitHub-repositories in a way to exist for more than 1000 years, I started thinking what I want to be kept for the future. <br>
-Considering the fact, that probably most of the archived texts (meaning to sourcecode, data etc.) will be in englisch language, the idea to also preserve some german texts popped up. 
+Considering the fact, that probably most of the archived texts (meaning sourcecode, data etc.) will be in englisch language, the idea to also preserve some german texts popped up. 
 
 The texts in this repository are in german language. The selection of the texts doesn't imply any valid valuation and is quite subjective. Also the texts aren't necessarrily written in german, but may be translated.
 
