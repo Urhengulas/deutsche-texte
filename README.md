@@ -1,4 +1,4 @@
-# deutsche-literatur
+# deutsche-texte
 
 <details>
 <summary>Inhaltsangabe</summary>
